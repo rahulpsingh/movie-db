@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar should render a modal 1`] = `
+<div>
+  <nav
+    class="sc-hKFxyN biQiEE"
+  >
+    <img
+      alt="Timescale"
+      class="sc-eCApnc dKLneu"
+      src="logo.svg"
+    />
+    <div
+      class="sc-bdnxRM kARabk"
+    >
+      <input
+        class="sc-gtsrHT iVZvUU"
+        placeholder="Search for a movie"
+        type="text"
+        value=""
+      />
+      <img
+        alt="search-img"
+        class="sc-dlnjwi kObtID search-icon"
+        src="search.svg"
+      />
+    </div>
+  </nav>
+</div>
+`;
+
+exports[`Navbar should render the Navbar 1`] = `
+<div>
+  <nav
+    class="sc-hKFxyN biQiEE"
+  >
+    <img
+      alt="Timescale"
+      class="sc-eCApnc dKLneu"
+      src="logo.svg"
+    />
+    <div
+      class="sc-bdnxRM kARabk"
+    >
+      <input
+        class="sc-gtsrHT iVZvUU"
+        placeholder="Search for a movie"
+        type="text"
+        value=""
+      />
+      <img
+        alt="search-img"
+        class="sc-dlnjwi kObtID search-icon"
+        src="search.svg"
+      />
+    </div>
+  </nav>
+</div>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Searchbar should render a modal 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM kARabk"
+  >
+    <input
+      class="sc-gtsrHT iVZvUU"
+      placeholder="Search for a movie"
+      type="text"
+      value=""
+    />
+    <img
+      alt="search-img"
+      class="sc-dlnjwi kObtID search-icon"
+      src="search.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`Searchbar should render the Searchbar 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM kARabk"
+  >
+    <input
+      class="sc-gtsrHT iVZvUU"
+      placeholder="Search for a movie"
+      type="text"
+      value=""
+    />
+    <img
+      alt="search-img"
+      class="sc-dlnjwi kObtID search-icon"
+      src="search.svg"
+    />
+  </div>
+</div>
+`;

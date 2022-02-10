@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieCard should render a modal 1`] = `
+<div>
+  <div
+    class="sc-kEqXSa iJcsTo"
+  >
+    <div
+      alt="movie-poster"
+      class="sc-iqAclL dfzoVg"
+      src="https://image.tmdb.org/t/p/original/undefined"
+    >
+      <div
+        class="sc-fujyAs sc-crzoAE hQJiDC fLzhTR"
+      >
+        <strong
+          class="sc-dIsUp cmnDeP"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-fujyAs sc-jrsJWt hQJiDC SYsXg"
+    >
+      <h3
+        class="sc-pNWdM iVUlag"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`MovieCard should render the MovieCard 1`] = `
+<div>
+  <div
+    class="sc-kEqXSa iJcsTo"
+  >
+    <div
+      alt="movie-poster"
+      class="sc-iqAclL dfzoVg"
+      src="https://image.tmdb.org/t/p/original/undefined"
+    >
+      <div
+        class="sc-fujyAs sc-crzoAE hQJiDC fLzhTR"
+      >
+        <strong
+          class="sc-dIsUp cmnDeP"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-fujyAs sc-jrsJWt hQJiDC SYsXg"
+    >
+      <h3
+        class="sc-pNWdM iVUlag"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`MovieGrid should render a modal 1`] = `
+<div>
+  <div
+    class="sc-bqGGPW sc-ksluID kwWAjY gpckzc"
+  >
+    <h1
+      class="sc-fnVZcZ gqCOXr"
+    />
+    <ul
+      class="sc-hBMUJo iWmWxD"
+    />
+  </div>
+</div>
+`;
+
+exports[`MovieGrid should render the MovieGrid 1`] = `
+<div>
+  <div
+    class="sc-bqGGPW sc-ksluID kwWAjY gpckzc"
+  >
+    <h1
+      class="sc-fnVZcZ gqCOXr"
+    />
+    <ul
+      class="sc-hBMUJo iWmWxD"
+    />
+  </div>
+</div>
+`;
